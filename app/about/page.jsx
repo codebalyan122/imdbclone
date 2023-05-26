@@ -1,7 +1,7 @@
 export default function page() {
   return (
-    <div className="max-w-6xl mx-auto space-y-4 p-6">
-      <h1 className="text-2xl font-medium text-amber-600">About</h1>
+    <div className="max-w-6xl mx-auto space-y-4 p-6 ">
+      <h1 className="text-2xl font-medium text-amber-600 ">About</h1>
       <p>
         Welcome to IMDb, the premier online platform for all things film and
         television! IMDb stands for Internet Movie Database, and it is your
