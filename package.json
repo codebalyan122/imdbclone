@@ -22,8 +22,5 @@
   },
   "devDependencies": {
     "@tailwindcss/line-clamp": "^0.4.4"
-  },
-  "engines": {
-    "node": "16.x"
   }
 }
