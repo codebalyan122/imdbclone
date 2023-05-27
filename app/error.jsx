@@ -11,7 +11,7 @@ function Error({ error, reset }) {
         Something wrong happend...
       </h1>
       <button
-        className=" text-gray-500 rounded hover:text-amber-600 transition-all duration-0.3 ease-in-out text-2xl text-white"
+        className="text-gray-500 rounded hover:text-amber-600 transition-all duration-0.3 ease-in-out text-2xl"
         onClick={() => reset()}
       >
         Click me
